@@ -1,1 +1,1 @@
-# study-guide-AZ-104-Prerequisites-for-Azure-administrators
+# Study Guide AZ-104
