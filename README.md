@@ -4,7 +4,7 @@
 
 ## Week 1
 
-- [ ] Microsoft Azure Fundamentals: Describe cloud concepts
-- [ ] Microsoft Azure Fundamentals: Describe Azure architecture and services
+- [ ] Microsoft Azure Fundamentals: [Describe cloud concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+- [ ] Microsoft Azure Fundamentals: [Describe Azure architecture and services](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/)
 - [ ] Microsoft Azure Fundamentals: Describe Azure management and governance
 - [ ] AZ-104: Prerequisites for Azure administrators
